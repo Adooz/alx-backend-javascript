@@ -2,5 +2,5 @@
 
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Kingsley Ndonake
 
