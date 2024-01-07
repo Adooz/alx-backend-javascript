@@ -586,4 +586,4 @@ File: [100-evcar.js](./100-evcar.js)
 
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Kingsley Ndonake
